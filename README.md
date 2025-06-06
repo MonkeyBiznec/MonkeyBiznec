@@ -2,4 +2,30 @@
 
 ![MonkeyBiznec's GitHub stats](https://github-readme-stats.vercel.app/api?username=MonkeyBiznec&show_icons=true&theme=radical)
 
-![MonkeyBiznec's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MonkeyBiznec&theme=react-dark&hide_border=true)
+<h2 align="center">Аллея славы манки бизнека</h2>
+
+<p align="center">
+  <img src="./pictures/0.png" width="300"/>
+</p>
+<p align="center"><b>клещ сюрвайвал</b></p>
+
+<hr style="border: none; height: 2px; background: gold;" />
+
+<p align="center">
+  <img src="./pictures/1.png" width="300"/>
+</p>
+<p align="center"><b>многого обыкновенный</b></p>
+
+<hr style="border: none; height: 2px; background: gold;" />
+
+<p align="center">
+  <img src="./pictures/2.png" width="300"/>
+</p>
+<p align="center"><b>тимур Моб</b></p>
+
+<hr style="border: none; height: 2px; background: gold;" />
+
+<p align="center">
+  <img src="./pictures/3.png" width="300"/>
+</p>
+<p align="center"><b>твоя мама ш</b></p>
