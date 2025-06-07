@@ -1,6 +1,6 @@
 ![MonkeyBiznec's GitHub stats](https://github-readme-stats.vercel.app/api?username=MonkeyBiznec&show_icons=true&theme=radical)
 
-<h2 align="center">Аллея славы манки бизнека</h2>
+<h2 align="center">Аллея славы</h2>
 
 <p align="center">
   <img src="./pictures/0.png" width="300"/>
