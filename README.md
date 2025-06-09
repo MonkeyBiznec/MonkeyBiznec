@@ -33,14 +33,7 @@
 <p align="center">
   <img src="./pictures/4.png" width="300"/>
 </p>
-<p align="center"><b>хохлоферма</b></p>
-
-<hr style="border: none; height: 2px; background: gold;" />
-
-<p align="center">
-  <img src="./pictures/5.png" width="300"/>
-</p>
-<p align="center"><b>я когда я</b></p>
+<p align="center"><b>варакрафт</b></p>
 
 <hr style="border: none; height: 2px; background: gold;" />
 
