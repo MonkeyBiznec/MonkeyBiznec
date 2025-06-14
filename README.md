@@ -81,6 +81,6 @@
 <hr style="border: none; height: 2px; background: gold;" />
 
 <p align="center">
-  <img src="./pictures/11.png" width="300"/>
+  <img src="./pictures/12.png" width="300"/>
 </p>
 <p align="center"><b>милликвадриордер</b></p>
