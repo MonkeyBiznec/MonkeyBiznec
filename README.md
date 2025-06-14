@@ -41,3 +41,10 @@
   <img src="./pictures/6.png" width="300"/>
 </p>
 <p align="center"><b>Я хочу свою аллею славы пополнять на страничке профиля гитхаба</b></p>
+
+<hr style="border: none; height: 2px; background: gold;" />
+
+<p align="center">
+  <img src="./pictures/7.png" width="300"/>
+</p>
+<p align="center"><b>Амбасадор фриков</b></p>
