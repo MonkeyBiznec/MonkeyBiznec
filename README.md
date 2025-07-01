@@ -51,26 +51,6 @@
 
 <hr style="border: none; height: 2px; background: gold;" />
 
-<p align="center">
-  <img src="./pictures/8.png" width="300"/>
-</p>
-<p align="center"><b>динозавроаддоны</b></p>
-
-<hr style="border: none; height: 2px; background: gold;" />
-
-<p align="center">
-  <img src="./pictures/9.png" width="300"/>
-</p>
-<p align="center"><b>rofoosmoboos</b></p>
-
-<hr style="border: none; height: 2px; background: gold;" />
-
-<p align="center">
-  <img src="./pictures/10.png" width="300"/>
-</p>
-<p align="center"><b>рофоо31</b></p>
-
-
 <hr style="border: none; height: 2px; background: gold;" />
 
 <p align="center">
