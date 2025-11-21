@@ -1,66 +1,53 @@
-![MonkeyBiznec's GitHub stats](https://github-readme-stats.vercel.app/api?username=MonkeyBiznec&show_icons=true&theme=radical)
-
-<h2 align="center">Аллея славы</h2>
-
 <p align="center">
-  <img src="./pictures/0.png" width="300"/>
+  <img src="./pictures/title.png" width="800">
 </p>
-<p align="center"><b>клещ сюрвайвал</b></p>
-
-<hr style="border: none; height: 2px; background: gold;" />
-
-<p align="center">
-  <img src="./pictures/1.png" width="300"/>
-</p>
-<p align="center"><b>многого обыкновенный</b></p>
-
-<hr style="border: none; height: 2px; background: gold;" />
-
-<p align="center">
-  <img src="./pictures/2.png" width="300"/>
-</p>
-<p align="center"><b>тимур Моб</b></p>
-
-<hr style="border: none; height: 2px; background: gold;" />
-
-<p align="center">
-  <img src="./pictures/3.png" width="300"/>
-</p>
-<p align="center"><b>твоя мама ш</b></p>
-
-<hr style="border: none; height: 2px; background: gold;" />
-
-<p align="center">
-  <img src="./pictures/4.png" width="300"/>
-</p>
-<p align="center"><b>варакрафт</b></p>
-
-<hr style="border: none; height: 2px; background: gold;" />
-
-<p align="center">
-  <img src="./pictures/6.png" width="300"/>
-</p>
-<p align="center"><b>Я хочу свою аллею славы пополнять на страничке профиля гитхаба</b></p>
-
-<hr style="border: none; height: 2px; background: gold;" />
-
-<p align="center">
-  <img src="./pictures/7.png" width="300"/>
-</p>
-<p align="center"><b>амбасадор фриков</b></p>
-
-<hr style="border: none; height: 2px; background: gold;" />
-
-<hr style="border: none; height: 2px; background: gold;" />
-
-<p align="center">
-  <img src="./pictures/11.png" width="300"/>
-</p>
-<p align="center"><b>конь</b></p>
-
-<hr style="border: none; height: 2px; background: gold;" />
-
-<p align="center">
-  <img src="./pictures/12.png" width="300"/>
-</p>
-<p align="center"><b>милликвадриордер</b></p>
+<table align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td>
+      <div style="position: relative; width: 400px; height: 300px;">
+        <img src="./pictures/red_carpet.png" width="400" height="300" style="position:absolute; top:0; left:0;">
+        <img src="./pictures/mono.png" width="200" height="200" style="position:absolute; top:50px; left:100px;">
+      </div>
+      <div style="text-align:center; margin-top:5px; font-size:18px">когда видео?</div>
+    </td>
+    <td>
+      <div style="position: relative; width: 400px; height: 300px;">
+        <img src="./pictures/red_carpet.png" width="400" height="300" style="position:absolute; top:0; left:0;">
+        <img src="./pictures/tehword.png" width="200" height="200" style="position:absolute; top:50px; left:100px;">
+      </div>
+      <div style="text-align:center; margin-top:5px; font-size:18px">хех хех ЧЕРНАВИК</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div style="position: relative; width: 400px; height: 300px;">
+        <img src="./pictures/red_carpet.png" width="400" height="300" style="position:absolute; top:0; left:0;">
+        <img src="./pictures/night_before_an.png" width="200" height="200" style="position:absolute; top:50px; left:100px;">
+      </div>
+      <div style="text-align:center; margin-top:5px; font-size:18px">Night Before AN</div>
+    </td>
+    <td>
+      <div style="position: relative; width: 400px; height: 300px;">
+        <img src="./pictures/red_carpet.png" width="400" height="300" style="position:absolute; top:0; left:0;">
+        <img src="./pictures/monkybiznec.png" width="200" height="200" style="position:absolute; top:50px; left:100px;">
+      </div>
+      <div style="text-align:center; margin-top:5px; font-size:18px">когда казявку скушал и такой 🤫🤫🤫</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div style="position: relative; width: 400px; height: 300px;">
+        <img src="./pictures/red_carpet.png" width="400" height="300" style="position:absolute; top:0; left:0;">
+        <img src="./pictures/pizdabol.png" width="200" height="200" style="position:absolute; top:50px; left:100px;">
+      </div>
+      <div style="text-align:center; margin-top:5px; font-size:18px">пиздабол бизнес</div>
+    </td>
+    <td>
+      <div style="position: relative; width: 400px; height: 300px;">
+        <img src="./pictures/red_carpet.png" width="400" height="300" style="position:absolute; top:0; left:0;">
+        <img src="./pictures/kazax.png" width="200" height="200" style="position:absolute; top:50px; left:100px;">
+      </div>
+      <div style="text-align:center; margin-top:5px; font-size:18px">я не придумаю</div>
+    </td>
+  </tr>
+</table>
