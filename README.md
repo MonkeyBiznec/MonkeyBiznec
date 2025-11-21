@@ -46,4 +46,15 @@
         <img src="pictures/linnettboy.png" width="400" height="300" style="position:absolute; top:0; left:0;">
       </div> </td>
   </tr>
+  <tr>
+    <td>
+      <div style="position: relative; width: 400px; height: 300px;">
+        <img src="pictures/plezio.png" width="400" height="300" style="position:absolute; top:0; left:0;">
+      </div>
+    </td>
+    <td>
+      <div style="position: relative; width: 400px; height: 300px;">
+        <img src="pictures/ino_is_rinat.png" width="400" height="300" style="position:absolute; top:0; left:0;">
+      </div> </td>
+  </tr>
 </table>
